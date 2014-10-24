@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Events": {
+            "applicationId": "egcq81G2Yxf1C8yhAFtW5aOf7UkO5BsNB2mOyj2t", 
+            "masterKey": "pMidgXn9aHXtCml8IgI2ut5tFVbLBCAvJKZa92lb"
+        }, 
+        "_default": {
+            "link": "Events"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
