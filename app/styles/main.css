@@ -42,11 +42,26 @@ body {
   .container {
     max-width: 730px;
   }
+  img.sponsor {
+    max-width: 380px;
+    max-height: 160px;
+  }
 }
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
+  }
+  img.sponsor {
+    max-width: 480px;
+    max-height: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  img.sponsor {
+    max-width: 280px;
+    max-height: 100px;
   }
 }
 
@@ -71,6 +86,10 @@ body {
   .location img {
     width: 570px;
   }
+}
+
+.sponsors-section .row {
+  margin-bottom: 20px;
 }
 
 .container-narrow > hr {
