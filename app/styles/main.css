@@ -43,7 +43,7 @@ body {
     max-width: 730px;
   }
   img.sponsor {
-    max-width: 380px;
+    max-width: 320px;
     max-height: 160px;
   }
 }
@@ -88,7 +88,7 @@ body {
   }
 }
 
-.sponsors-section .row {
+.sponsor-image {
   margin-bottom: 20px;
 }
 
