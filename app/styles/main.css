@@ -76,10 +76,6 @@ body {
   .location img {
     width: 350px;
   }
-  .sponsors {
-    background: url('../images/banners-small.png');
-    height: 300px;
-  }
 }
 
 @media (min-width: 1200px) {
