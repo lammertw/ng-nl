@@ -188,13 +188,17 @@ body {
   }
 }
 
-.speakers img {
+.speakers img, img.profile {
   width: 140px;
   height: 140px;
 }
 
 .speakers .col-md-4 {
   margin-top: 20px;
+}
+
+.organizers h3 {
+  font-size: 12pt;
 }
 
 .location .row {
