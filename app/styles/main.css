@@ -1,5 +1,15 @@
 body {
   padding-top: 50px;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+h1:first-child, h2:first-child {
+  margin-top: 0;
 }
 
 .navbar-default {
@@ -165,8 +175,7 @@ body {
 }
 
 .main-section {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding: 60px 15px;
 }
 
 .main-section-odd {
