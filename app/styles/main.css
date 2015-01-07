@@ -80,11 +80,17 @@ h1:first-child, h2:first-child {
   .location img {
     width: 260px;
   }
+  iframe {
+    height: 350px;
+  }
 }
 
 @media (min-width: 768px) {
   .location img {
     width: 350px;
+  }
+  iframe {
+    height: 270px;
   }
 }
 
