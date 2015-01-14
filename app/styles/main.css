@@ -237,9 +237,6 @@ h1:first-child, h2:first-child {
   display: block;
 }*/
 
-td {
-  text-align: center;
-}
 
 td.special {
   background-color: #EFEFEF;
@@ -248,11 +245,26 @@ td.special {
 
 td.normal {
   background-color: #ffffff;
-  width: 160px;
+  width: 380px;
 }
 th {
   text-align: center;
 }
 th.header {
   font-size: 16pt;
+}
+
+.schedule img {
+  height: 40px;
+  margin: -8px 8px -8px -8px;
+}
+
+.schedule img.right {
+  float: right;
+  margin-top: -6px;
+  height: 36px;
+}
+
+.schedule img.left {
+  float: left;
 }
