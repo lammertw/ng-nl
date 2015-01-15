@@ -268,3 +268,7 @@ th.header {
 .schedule img.left {
   float: left;
 }
+
+td.vert-align {
+  vertical-align: middle!important;
+}
