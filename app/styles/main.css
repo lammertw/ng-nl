@@ -81,7 +81,8 @@ h1:first-child, h2:first-child {
     width: 260px;
   }
   iframe {
-    height: 380px;
+    width: 500px;
+    height: 280px;
   }
 }
 
@@ -90,13 +91,18 @@ h1:first-child, h2:first-child {
     width: 350px;
   }
   iframe {
-    height: 270px;
+    width: 700px;
+    height: 394px;
   }
 }
 
 @media (min-width: 1200px) {
   .location img {
     width: 570px;
+  }
+  iframe {
+    width: 1140px;
+    height: 640px;
   }
 }
 
